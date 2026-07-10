@@ -42,7 +42,6 @@ The project demonstrates the complete Machine Learning workflow, including data 
 ---
 
 ## 📊 Input Features
-
 * Gender
 * Married
 * Dependents
