@@ -100,7 +100,7 @@ LoanPrediction/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/LoanPrediction.git
+git clone https://github.com/EngrTayab/loan-prediction-system.git
 ```
 
 Move to the project folder:
